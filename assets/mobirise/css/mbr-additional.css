@@ -1042,7 +1042,7 @@ a {
 }
 .cid-sTQERfoRPW .mbr-text,
 .cid-sTQERfoRPW .mbr-section-btn {
-  color: #e43f3f;
+  color: #ffffff;
 }
 .cid-sTQF1jFPPu {
   padding-top: 6rem;
@@ -1069,7 +1069,7 @@ a {
   color: #e43f3f;
 }
 .cid-sTQF1jFPPu .mbr-text {
-  color: #e43f3f;
+  color: #ffffff;
 }
 .cid-sTR0Jni8pk {
   padding-top: 6rem;
@@ -1093,7 +1093,7 @@ a {
   }
 }
 .cid-sTR0Jni8pk .mbr-text {
-  color: #e43f3f;
+  color: #ffffff;
 }
 .cid-sTR0Jni8pk .mbr-section-title {
   color: #e43f3f;
@@ -1160,6 +1160,16 @@ a {
 }
 .cid-sTQWRMkIo3 .item-subtitle {
   text-align: center;
+}
+.cid-sWYi6zG1gY {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-sWYi6zG1gY .mbr-section-btn {
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
 }
 .cid-sTQYLbcJR7 {
   background-image: url("../../../assets/images/book-gd5bf6f08c-1920.jpg");
